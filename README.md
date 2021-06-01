@@ -5,8 +5,8 @@
 1. Go to the project directory
 2. npm i
 3. create .env file and set two env variables
-    STAGE=LOCAL
-    API_KEY=use your own API key
+   STAGE=LOCAL & 
+   API_KEY=use your own API key
 4. `npm start` to start react app
 5. `npm run server` to run the node server
 
