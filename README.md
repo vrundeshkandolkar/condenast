@@ -6,7 +6,7 @@
 2. npm i
 3. create .env file and set two env variables
    STAGE=LOCAL & 
-   API_KEY=use your own API key
+   API_KEY=<generate API key here: https://newsapi.org/>
 4. `npm start` to start react app
 5. `npm run server` to run the node server
 
