@@ -1,3 +1,5 @@
+This project is aboute fetching some news feeds based on search, it initially displayed news tiles with images and onclick on any tile routes to detailed news about the selected tile.
+
 # Node version
 14 & above
 
